@@ -1,0 +1,43 @@
+一、插件介绍
+1.jquery.cookie.js
+2.jquery.jqzoom.js
+3.jquery.simplemodal.js
+4.jquery.thickbox.js
+5.jquery.zoom.min.js
+
+第一个插件：jquery.cookie.js
+定义：让网站服务器把少量数据储存到客户端的硬盘或内存，从客户端的硬盘读取数据的一种技术；
+下载与引入:jquery.cookie.js基于jquery；先引入jquery，再引入：jquery.cookie.js；
+下载：http://plugins.jquery.com/cookie/
+使用该插件参考博客：https://www.cnblogs.com/webcome/p/5470975.html
+
+第二个插件：jquery.jqzoom.js
+
+
+
+第三个插件：jquery.simplemodal.js
+官网地址：http://www.ericmmartin.com/
+SimpleModal是一个轻量级的jQuery插件，它为模式窗口的开发提供了一个强有力的接口，
+可以把它当作模式窗口的框架。SimpleModal非常的灵活，可以创建你能够想像到的任何东西，
+并且你还不需要考虑UI开发中的跨游览器相关问题。
+使用该插件参考博客：https://www.cnblogs.com/nayitian/p/3386332.html
+
+第四个插件：jquery.thickbox.js
+官网地址：http://codylindley.com/thickbox/
+
+ThickBox是使用超轻量级jQuery库构建的。压缩后，jQuery库是20k，解压后是58k。
+ThickBox JavaScript代码和CSS文件仅在jQuery代码之上添加了额外的15k(使用ThickBox -compressed.js只添加了10k)。如果需要，还可以压缩CSS文件。
+ThickBox将调整比浏览器窗口更大的图像的大小。
+ThickBox提供了多功能性(图像、iframe内容、内联内容和AJAX内容)。
+ThickBox将在Windows ie6中隐藏表单元素。
+即使用户滚动页面或更改浏览器窗口的大小，ThickBox仍将保持在窗口的中心。单击图像、覆盖或关闭链接将删除ThickBox。
+由于ThickBox creator认为转换应该由各个作者定制，所以ThickBox窗口没有实现花哨的转换。您可以随意添加它们，只要您认为合适。这是一个特性吗?嗯，有人可能会说它是。
+可以从link元素、input元素(通常是一个按钮)和area元素(图像映射)调用ThickBox。
+
+
+第五个插件：jquery.zoom.min.js
+官网地址：
+https://www.jqueryscript.net/zoom/Simple-Image-Inner-Zoom-Plugin-jQuery-Zoom.html
+
+参考博客：https://www.jianshu.com/p/43c8b7c2dd2c
+
